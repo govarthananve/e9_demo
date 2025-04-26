@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1",
+    "name": "pills-forms",
+    "link": "eiGdsH1g20k",
+    "displayName": "Required Forms Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "pills-requiredDocs",
+    "link": "xRYsQskhkds",
+    "displayName": "Required Docs Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "pills-Questionnaire",
+    "link": "qxbHtcfHq2s",
+    "displayName": "Questionnaire Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "tab-forms",
+    "link": "qxbHtcfHq2s",
+    "displayName": "Forms Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "5",
+    "name": "tab-docs",
+    "link": "qxbHtcfHq2s",
+    "displayName": "My Docs Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "6",
+    "name": "tab-shared-docs",
+    "link": "qxbHtcfHq2s",
+    "displayName": "Shared Doc Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "7",
+    "name": "tab-preparer-docs",
+    "link": "qxbHtcfHq2s",
+    "displayName": "Questionnaire Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "tab-questionnaire",
+    "link": "qxbHtcfHq2s",
+    "displayName": "Questionnaire Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "tab-emailConversation",
+    "link": "qxbHtcfHq2s",
+    "displayName": "Email Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  },
+  {
+    "id": "8",
+    "name": "clientInitialSetup",
+    "link": "qxbHtcfHq2s",
+    "displayName": "Email Help",
+    "duration": "1 min 05 Sec",
+    "description": "Watching this video, you will understand",
+    "points": [
+      { "des": "How to upload requested doc" },
+      { "des": "How to categorize, add note and submit" },
+      { "des": "Where to view your uploaded document" }
+    ]
+  }
+]

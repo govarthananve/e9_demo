@@ -1,0 +1,306 @@
+// Define E9 color palette
+$white: #ffffff;
+$black: #000000;
+
+// Primary Shades
+$primary-500: #2E90FA;
+$primary-600: #1570EF;
+$primary-800: #184989;
+
+// Grey Shades
+$grey-25: #FDFDFD;
+$grey-50: #FAFAFA;
+$grey-100: #F5F5F5;
+$grey-200: #E9EAEB;
+$grey-300: #D5D7DA;
+$grey-400: #A4A7AE;
+$grey-500: #717680;
+$grey-600: #535862;
+$grey-700: #414651;
+$grey-800: #252B37;
+$grey-900: #181D27;
+$bg-grey: #F5F5F7; // Background Grey
+
+// Error Shades
+$error-300: #FDA29B;
+$error-500: #F04438;
+$error-600: #D92D20;
+// Success Shades
+$success-300: #A0E7A1;
+$success-500: #4CD964;
+$success-600: #0D921C;
+
+$light-green: #9BDFC4;
+// Status Shades
+$status-open : #64C9FA;
+$status-inprogress : #F8E85F;
+$status-filing : #D8C0FF;
+$status-complete : #F59E64;
+
+// Using these in your components
+:root {
+    --white: #{$white};
+    --black: #{$black};
+
+    // Grey
+    --grey-25: #{$grey-25};
+    --grey-50: #{$grey-50};
+    --grey-100: #{$grey-100};
+    --grey-200: #{$grey-200};
+    --grey-300: #{$grey-300};
+    --grey-400: #{$grey-400};
+    --grey-500: #{$grey-500};
+    --grey-600: #{$grey-600};
+    --grey-700: #{$grey-700};
+    --grey-800: #{$grey-800};
+    --grey-900: #{$grey-900};
+    --bg-grey: #{$bg-grey};
+
+    // Error
+    --error-300: #{$error-300};
+    --error-500: #{$error-500};
+    --error-600: #{$error-600};
+
+    // Primary
+    --primary-500: #{$primary-500};
+    --primary-600: #{$primary-600};
+    --primary-800: #{$primary-800};
+    --success-300: #{$success-300};
+    --success-500: #{$success-500};
+    --success-600: #{$success-600};
+    --light-green: #{$light-green};
+    // Status
+    --status-open: #{$status-open};
+    --status-inprogress: #{$status-inprogress};
+    --status-filing: #{$status-filing};
+    --status-complete: #{$status-complete};
+}
+
+.e9-bg-white {
+    background-color: var(--white) !important;
+}
+
+.e9-cl-white {
+    color: var(--white) !important;
+}
+
+.e9-bg-black {
+    background-color: var(--black) !important;
+}
+
+.e9-cl-black {
+    color: var(--black) !important;
+}
+
+// Grey Shades
+.e9-bg-grey-25 {
+    background-color: var(--grey-25) !important;
+}
+
+.e9-cl-grey-25 {
+    color: var(--grey-25) !important;
+}
+
+.e9-bg-grey-50 {
+    background-color: var(--grey-50) !important;
+}
+
+.e9-cl-grey-50 {
+    color: var(--grey-50) !important;
+}
+
+.e9-bg-grey-100 {
+    background-color: var(--grey-100) !important;
+}
+
+.e9-cl-grey-100 {
+    color: var(--grey-100) !important;
+}
+
+.e9-bg-grey-200 {
+    background-color: var(--grey-200) !important;
+}
+
+.e9-cl-grey-200 {
+    color: var(--grey-200) !important;
+}
+
+.e9-bg-grey-300 {
+    background-color: var(--grey-300) !important;
+}
+
+.e9-cl-grey-300 {
+    color: var(--grey-300) !important;
+}
+
+.e9-bg-grey-400 {
+    background-color: var(--grey-400) !important;
+}
+
+.e9-cl-grey-400 {
+    color: var(--grey-400) !important;
+}
+
+.e9-bg-grey-500 {
+    background-color: var(--grey-500) !important;
+}
+
+.e9-cl-grey-500 {
+    color: var(--grey-500) !important;
+}
+
+.e9-bg-grey-600 {
+    background-color: var(--grey-600) !important;
+}
+
+.e9-cl-grey-600 {
+    color: var(--grey-600) !important;
+}
+
+.e9-bg-grey-700 {
+    background-color: var(--grey-700) !important;
+}
+
+.e9-cl-grey-700 {
+    color: var(--grey-700) !important;
+}
+
+.e9-bg-grey-800 {
+    background-color: var(--grey-800) !important;
+}
+
+.e9-cl-grey-800 {
+    color: var(--grey-800) !important;
+}
+
+.e9-bg-grey-900 {
+    background-color: var(--grey-900) !important;
+}
+
+.e9-cl-grey-900 {
+    color: var(--grey-900) !important;
+}
+
+.e9-bg-bg-grey {
+    background-color: var(--bg-grey) !important;
+}
+
+.e9-cl-bg-grey {
+    color: var(--bg-grey) !important;
+}
+
+// Error Shades
+.e9-bg-error-300 {
+    background-color: var(--error-300) !important;
+}
+
+.e9-cl-error-300 {
+    color: var(--error-300) !important;
+}
+
+.e9-bg-error-500 {
+    background-color: var(--error-500) !important;
+}
+
+.e9-cl-error-500 {
+    color: var(--error-500) !important;
+}
+
+.e9-bg-error-600 {
+    background-color: var(--error-600) !important;
+}
+
+.e9-cl-error-600 {
+    color: var(--error-600) !important;
+}
+
+// Primary Shades
+.e9-bg-primary-500 {
+    background-color: var(--primary-500) !important;
+}
+
+.e9-cl-primary-500 {
+    color: var(--primary-500) !important;
+}
+
+.e9-bg-primary-600 {
+    background-color: var(--primary-600) !important;
+}
+
+.e9-cl-primary-600 {
+    color: var(--primary-600) !important;
+}
+
+.e9-bg-primary-800 {
+    background-color: var(--primary-800) !important;
+}
+
+.e9-cl-primary-800 {
+    color: var(--primary-800) !important;
+}
+
+// Success Shades
+.e9-bg-success-300 {
+    background-color: var(--success-300) !important;
+}
+
+.e9-cl-success-300 {
+    color: var(--success-300) !important;
+}
+
+.e9-bg-success-500 {
+    background-color: var(--success-500) !important;
+}
+
+.e9-cl-success-500 {
+    color: var(--success-500) !important;
+}
+
+.e9-bg-success-600 {
+    background-color: var(--success-600) !important;
+}
+
+.e9-cl-success-600 {
+    color: var(--success-600) !important;
+}
+
+.e9-bg-light-green {
+    background-color: var(--light-green) !important;
+}
+
+.e9-cl-light-green {
+    color: var(--light-green) !important;
+}
+
+// Status Shades
+.e9-bg-status-open {
+    background-color: var(--status-open) !important;
+}
+
+.e9-cl-status-open {
+    color: var(--status-open) !important;
+}
+
+.e9-bg-status-inprogress {
+    background-color: var(--status-inprogress) !important;
+}
+
+.e9-cl-status-inprogress {
+    color: var(--status-inprogress) !important;
+}
+
+.e9-bg-status-filing {
+    background-color: var(--status-filing) !important;
+}
+
+.e9-cl-status-filing {
+    color: var(--status-filing) !important;
+}
+
+.e9-bg-status-complete {
+    background-color: var(--status-complete) !important;
+}
+
+.e9-cl-status-complete {
+    color: var(--status-complete) !important;
+}
